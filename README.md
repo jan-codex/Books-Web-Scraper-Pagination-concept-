@@ -28,4 +28,5 @@ This Python script scrapes book information from the [Books to Scrape](http://bo
 1. Clone the repository:
    ```bash
    git clone https://github.com/jan-codex/Books-Web-Scraper-Pagination-concept-.git
-   cd mystery-books-scraper
+   cd Books-Web-Scraper-Pagination-concept-
+
